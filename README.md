@@ -51,7 +51,7 @@ jupyter notebook
 ```
 This should open Jupyter in your browser. Navigate to the folder containing the course `.ipynb` files and open one to 
 confirm everything runs.
-- As a sanity check, try importing some packages and running code:
+- As a sanity check, try importing some packages by running the following code in a cell in the notebook:
 ```python
 import numpy
 import matplotlib
