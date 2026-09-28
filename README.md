@@ -15,11 +15,34 @@ libraries (NumPy, Matplotlib) that students will encounter throughout the MSc co
 
 ### 1. Python Fundamentals 
 
+By the end of the session you should be able to:
+- Setup and navigate a Jupyter notebook
+- Explain the difference between core data types
+- Use Python operators
+- Use `for` and `while` loops
+- Define and call functions
+
 ### 2. Data Structures & Scientific Python
+
+By the end of the session you should be able to:
+- Store and manipulate collections of data
+- Create NumPy arrays and understand the advantages they offer over Python lists
+- Use NumPy to solve common mathematical problems
+- Select the appropriate data structure for a given problem
 
 ### 3. Working with Data & Visualisation
 
+By the end of the session you should be able to:
+- Load data into a Pandas DataFrame from a CSV file and inspect its contents
+- Use basic built-in Pandas operations
+- Create plots using Matplotlib (line plots, scatter plots, histograms)
+
 ### 4. Good Coding Practices
+
+By the end of the session you should be able to:
+- Write clean, readable code
+- Use docstrings and comments to explain functions
+- Apply debugging strategies to identify errors
 
 ---
 ## Pre-Course Instructions
